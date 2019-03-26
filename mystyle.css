@@ -1,5 +1,7 @@
 body {
-  color: #D8CD9B;
+  color: #ffffff;
+  background-color: #D8CD9B;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 
 .dropbtn {
