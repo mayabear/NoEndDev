@@ -6,3 +6,23 @@ body {
 }
 h1 {
 color: #779863;
+font-size: 4em;
+}
+
+h2 {
+  color: #779863;
+  font-variant: small-caps;
+}
+
+h3 {
+  color: #779863;
+  font-size: 3em;
+}
+
+ol {
+  list-style: none;
+  padding: 0;
+  margin-bottom: 10%;
+  font-size: 1em;
+  display: flex;
+  justify-content: space-evenly;
