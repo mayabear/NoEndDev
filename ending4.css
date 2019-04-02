@@ -23,6 +23,17 @@ button:hover {
   text-decoration: none;
 }
 
+#dropbtn-test {
+  background-color: #814853;
+  color: white;
+  padding: 16px;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  text-decoration: none;
+}
+
 .dropbtn {
   background-color: #814853;
   color: white;
@@ -40,6 +51,11 @@ button:hover {
   text-decoration: none;
 }
 
+/* Dropdown button on hover & focus */
+#dropbtn-test:hover, #dropbtn-test:focus {
+  background-color: #814853;
+  text-decoration: none;
+}
 /* The container <div> - needed to position the dropdown content */
 .dropdown {
   position: relative;
