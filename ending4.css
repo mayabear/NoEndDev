@@ -5,6 +5,75 @@ body {
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
   text-align: center;
 }
+a {
+  color: #779863;
+}
+.button {
+  background-color: #814853;
+  color: white;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  text-decoration: none;
+}
+.button:hover {
+  background-color: #779863;
+  text-decoration: none;
+}
+
+.dropbtn {
+  background-color: #814853;
+  color: white;
+  padding: 16px;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+/* Dropdown button on hover & focus */
+.dropbtn:hover, .dropbtn:focus {
+  background-color: #814853;
+  text-decoration: none;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  display: inline-block;
+  text-decoration: none;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #814853;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  text-decoration: none;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: white;
+  padding: 12px 16px;
+  background-color: #814853;
+  text-decoration: none;
+  display: block;
+  text-decoration: none;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #779863}
+
+/* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+.show {display:block;}
+
 h1 {
 color: #779863;
 font-size: 4em;
@@ -44,72 +113,3 @@ ol {
     background-color: #D8CD9B;
     font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     text-align: center;
-
-  a {
-    color: #779863;
-  }
-  .button {
-    background-color: #814853;
-    color: white;
-    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-    padding: 16px;
-    font-size: 16px;
-    border: none;
-    cursor: pointer;
-    text-decoration: none;
-  }
-  .button:hover {
-    background-color: #779863;
-    text-decoration: none;
-  }
-
-  .dropbtn {
-    background-color: #814853;
-    color: white;
-    padding: 16px;
-    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-    font-size: 16px;
-    border: none;
-    cursor: pointer;
-    text-decoration: none;
-  }
-
-  /* Dropdown button on hover & focus */
-  .dropbtn:hover, .dropbtn:focus {
-    background-color: #814853;
-    text-decoration: none;
-  }
-
-  /* The container <div> - needed to position the dropdown content */
-  .dropdown {
-    position: relative;
-    display: inline-block;
-    text-decoration: none;
-  }
-
-  /* Dropdown Content (Hidden by Default) */
-  .dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: #814853;
-    min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    z-index: 1;
-    text-decoration: none;
-  }
-
-  /* Links inside the dropdown */
-  .dropdown-content a {
-    color: white;
-    padding: 12px 16px;
-    background-color: #814853;
-    text-decoration: none;
-    display: block;
-    text-decoration: none;
-  }
-
-  /* Change color of dropdown links on hover */
-  .dropdown-content a:hover {background-color: #779863}
-
-  /* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
-  .show {display:block;}
