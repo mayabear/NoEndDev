@@ -5,6 +5,7 @@ body {
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
   text-align: center;
 }
+
 a {
   color: #779863;
 }
@@ -74,9 +75,11 @@ a {
 /* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
 .show {display:block;}
 
+
 h1 {
 color: #779863;
 font-size: 4em;
+font-weight: bold;
 }
 
 p {
@@ -88,28 +91,45 @@ h2 {
   font-variant: small-caps;
 }
 
-#flowers {
-  width: 30em;
+#plants {
+  width: 20em;
 }
-
 
 h3 {
   color: #779863;
   font-size: 3em;
+  font-weight: bold;
 }
 
-#carouselExampleIndicators {
+
+#carouselExampleIndicators1 {
   width: 20em;
   height: 15em;
 }
 
+#carouselExampleIndicators2 {
+  width: 20em;
+  height: 15em;
+}
+
+#carouselExampleIndicators3 {
+  width: 20em;
+  height: 15em;
+}
+
+#reduce {
+  width: 15em;
+}
+
+#menstrualcup {
+  width: 15em;
+}
+
+#clothes {
+  width: 20em;
+}
 ol {
   list-style: none;
   padding: 0;
   display: flex;
   justify-content: space-evenly;
-  body {
-    color: #ffffff;
-    background-color: #D8CD9B;
-    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-    text-align: center;
