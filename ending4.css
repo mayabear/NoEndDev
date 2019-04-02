@@ -8,7 +8,7 @@ body {
 a {
   color: #779863;
 }
-.button {
+button {
   background-color: #814853;
   color: white;
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
@@ -18,7 +18,7 @@ a {
   cursor: pointer;
   text-decoration: none;
 }
-.button:hover {
+button:hover {
   background-color: #779863;
   text-decoration: none;
 }
