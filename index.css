@@ -26,8 +26,8 @@ a {
   background-color: #814853;
   color: white;
   font-family: 'Reenie Beanie', cursive;
-  padding: 1em;
-  font-size: 2em;
+  padding: .5em;
+  font-size: 1.5em;
   border: none;
   cursor: pointer;
   text-decoration: none;
@@ -41,9 +41,9 @@ a {
 .dropbtn {
   background-color: #814853;
   color: white;
-  padding: 1em;
+  padding: 0.5em;
   font-family: 'Reenie Beanie', cursive;
-  font-size: 2em;
+  font-size: 1.5em;
   border: none;
   cursor: pointer;
   text-decoration: none;
@@ -61,6 +61,7 @@ a {
   position: relative;
   display: inline-block;
   font-family: 'Reenie Beanie', cursive;
+  font-size: 1.5em;
   text-decoration: none;
 }
 
@@ -80,7 +81,7 @@ a {
 /* Links inside the dropdown */
 .dropdown-content a {
   color: white;
-  padding: 1em 1em;
+  padding: 0em 0em;
   background-color: #814853;
   text-decoration: none;
   display: block;

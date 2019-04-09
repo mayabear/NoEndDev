@@ -15,7 +15,7 @@ a {
 h1 {
   font-family: 'Reenie Beanie', cursive;
 color: #779863;
-font-size: 4em;
+font-size: 5em;
 font-weight: bold;
 }
 
@@ -28,6 +28,7 @@ font-weight: bold;
 p {
   font-family: 'Reenie Beanie', cursive;
   color: white;
+  font-size: 2em;
 }
 
 #info {
@@ -124,26 +125,25 @@ li {
 .button {
   background-color: #814853;
   color: white;
-    font-family: 'Reenie Beanie', cursive;
-  padding: 1em;
-  font-size: 1em;
+  font-family: 'Reenie Beanie', cursive;
+  padding: .5em;
+  font-size: 1.5em;
   border: none;
   cursor: pointer;
   text-decoration: none;
-}
 
+}
 .button:hover {
   background-color: #779863;
   text-decoration: none;
-      font-family: 'Reenie Beanie', cursive;
 }
 
 .dropbtn {
   background-color: #814853;
   color: white;
-  padding: 1em;
-    font-family: 'Reenie Beanie', cursive;
-  font-size: 1em;
+  padding: 0.5em;
+  font-family: 'Reenie Beanie', cursive;
+  font-size: 1.5em;
   border: none;
   cursor: pointer;
   text-decoration: none;
@@ -152,7 +152,7 @@ li {
 /* Dropdown button on hover & focus */
 .dropbtn:hover, .dropbtn:focus {
   background-color: #814853;
-    font-family: 'Reenie Beanie', cursive;
+  font-family: 'Reenie Beanie', cursive;
   text-decoration: none;
 }
 
@@ -160,7 +160,8 @@ li {
 .dropdown {
   position: relative;
   display: inline-block;
-      font-family: 'Reenie Beanie', cursive;
+  font-family: 'Reenie Beanie', cursive;
+  font-size: 1.5em;
   text-decoration: none;
 }
 
@@ -180,7 +181,7 @@ li {
 /* Links inside the dropdown */
 .dropdown-content a {
   color: white;
-  padding: 1em 1em;
+  padding: 0em 0em;
   background-color: #814853;
   text-decoration: none;
   display: block;
