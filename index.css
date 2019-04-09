@@ -1,14 +1,22 @@
 body {
   color: #ffffff;
   background-color: #D8CD9B;
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-family: 'Reenie Beanie', cursive;
   text-align: center;
+}
+title{
+  font-size: 5em;
 }
 h1 {
   color: #779863;
+  font-size: 4em;
 }
 h2 {
   color: #779863;
+  font-size: 4em;
+}
+p{
+  font-size: 3em;
 }
 a {
   color: #779863;
@@ -17,9 +25,9 @@ a {
 .button {
   background-color: #814853;
   color: white;
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-family: 'Reenie Beanie', cursive;
   padding: 1em;
-  font-size: 1em;
+  font-size: 2em;
   border: none;
   cursor: pointer;
   text-decoration: none;
@@ -34,8 +42,8 @@ a {
   background-color: #814853;
   color: white;
   padding: 1em;
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-  font-size: 1em;
+  font-family: 'Reenie Beanie', cursive;
+  font-size: 2em;
   border: none;
   cursor: pointer;
   text-decoration: none;
@@ -44,7 +52,7 @@ a {
 /* Dropdown button on hover & focus */
 .dropbtn:hover, .dropbtn:focus {
   background-color: #814853;
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-family: 'Reenie Beanie', cursive;
   text-decoration: none;
 }
 
@@ -52,7 +60,7 @@ a {
 .dropdown {
   position: relative;
   display: inline-block;
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-family: 'Reenie Beanie', cursive;
   text-decoration: none;
 }
 
