@@ -19,6 +19,7 @@ font-weight: bold;
 
 p {
   color: white;
+
 }
 
 h2 {
@@ -27,7 +28,7 @@ h2 {
 }
 
 #plants {
-  width: 200px;
+  width: 20em;
 }
 
 h3 {
@@ -64,11 +65,22 @@ h3 {
   width: 20em;
 }
 
+#tree {
+  width: 300px;
+}
+
+
 ol {
   list-style: none;
-  padding: 0;
+  margin-left: 2%;
+  margin-right: 2%;
   display: flex;
   justify-content: space-evenly;
+}
+
+li {
+  margin-left: 5%;
+  margin-right: 5%;
 }
 
 .button {
