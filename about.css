@@ -1,7 +1,8 @@
+
 body {
   color: #ffffff;
   background-color: #D8CD9B;
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-family: 'Reenie Beanie', cursive;
   text-align: center;
 }
 
@@ -25,7 +26,7 @@ ol {
 .button {
   background-color: #814853;
   color: white;
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-family: 'Reenie Beanie', cursive;
   padding: 1em;
   font-size: 1em;
   border: none;
@@ -42,7 +43,7 @@ ol {
   background-color: #814853;
   color: white;
   padding: 1em;
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-family: 'Reenie Beanie', cursive;
   font-size: 1em;
   border: none;
   cursor: pointer;
@@ -52,7 +53,7 @@ ol {
 /* Dropdown button on hover & focus */
 .dropbtn:hover, .dropbtn:focus {
   background-color: #814853;
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-family: 'Reenie Beanie', cursive;
   text-decoration: none;
 }
 
@@ -60,7 +61,7 @@ ol {
 .dropdown {
   position: relative;
   display: inline-block;
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-family: 'Reenie Beanie', cursive;
   text-decoration: none;
 }
 
@@ -81,6 +82,7 @@ ol {
 .dropdown-content a {
   color: white;
   padding: 1em 1em;
+  font-family: 'Reenie Beanie', cursive;
   background-color: #814853;
   text-decoration: none;
   display: block;
@@ -106,6 +108,7 @@ input[type=text], select, textarea {
   margin-top: 6px; /* Add a top margin */
   margin-bottom: 16px; /* Bottom margin */
   resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+  font-family: 'Reenie Beanie', cursive;
 }
 
 /* Style the submit button with a specific background color etc */
