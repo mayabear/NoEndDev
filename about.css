@@ -15,6 +15,13 @@ a {
   color: #779863;
 }
 
+
+ol {
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+}
+
 .button {
   background-color: #814853;
   color: white;
