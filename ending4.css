@@ -17,9 +17,18 @@ font-size: 4em;
 font-weight: bold;
 }
 
+#foodproduction {
+  width: 25em
+}
+
+
 p {
   color: white;
+}
 
+#info {
+  margin-left: 20%;
+  margin-right: 20%;
 }
 
 h2 {
@@ -66,10 +75,16 @@ h3 {
 }
 
 #tree {
-  width: 300px;
+  width: 19em;
 }
 
+#farmer {
+  width: 19em
+}
 
+#mealprepping {
+  width: 19em
+}
 ol {
   list-style: none;
   margin-left: 2%;
