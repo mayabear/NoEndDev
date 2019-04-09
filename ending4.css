@@ -2,93 +2,112 @@
 body {
   color: #779863;
   background-color: #D8CD9B;
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-family: 'Reenie Beanie', cursive;
   text-align: center;
 }
 
 a {
+  font-family: 'Reenie Beanie', cursive;
   color: #779863;
   text-decoration: none;
 }
 
 h1 {
+  font-family: 'Reenie Beanie', cursive;
 color: #779863;
 font-size: 4em;
 font-weight: bold;
 }
 
 #foodproduction {
+  font-family: 'Reenie Beanie', cursive;
   width: 25em
 }
 
 
 p {
+  font-family: 'Reenie Beanie', cursive;
   color: white;
 }
 
 #info {
+  font-family: 'Reenie Beanie', cursive;
   margin-left: 20%;
   margin-right: 20%;
 }
 
 h2 {
+  font-family: 'Reenie Beanie', cursive;
   color: #779863;
   font-variant: small-caps;
 }
 
 #plants {
+  font-family: 'Reenie Beanie', cursive;
   width: 20em;
 }
 
 h3 {
+  font-family: 'Reenie Beanie', cursive;
   color: #779863;
   font-size: 3em;
   font-weight: bold;
 }
 
 #sustainablestyle {
+  font-family: 'Reenie Beanie', cursive;
   width: 19em;
 }
 
 #carouselExampleIndicators1 {
+    font-family: 'Reenie Beanie', cursive;
   width: 20em;
   height: 15em;
 }
 
 #carouselExampleIndicators2 {
+    font-family: 'Reenie Beanie', cursive;
   width: 20em;
   height: 15em;
 }
 
 #carouselExampleIndicators3 {
+    font-family: 'Reenie Beanie', cursive;
   width: 20em;
   height: 15em;
 }
 
 #reduce {
+    font-family: 'Reenie Beanie', cursive;
   width: 15em;
 }
 
 #menstrualcup {
+    font-family: 'Reenie Beanie', cursive;
   width: 15em;
 }
 
 #clothes {
+    font-family: 'Reenie Beanie', cursive;
   width: 20em;
 }
 
 #tree {
+    font-family: 'Reenie Beanie', cursive;
   width: 19em;
 }
 
 #farmer {
+    font-family: 'Reenie Beanie', cursive;
   width: 19em
 }
 
 #mealprepping {
+    font-family: 'Reenie Beanie', cursive;
   width: 19em
 }
 ol {
+    font-family: 'Reenie Beanie', cursive;
   list-style: none;
   margin-left: 2%;
   margin-right: 2%;
@@ -97,6 +116,7 @@ ol {
 }
 
 li {
+      font-family: 'Reenie Beanie', cursive;
   margin-left: 5%;
   margin-right: 5%;
 }
@@ -104,7 +124,7 @@ li {
 .button {
   background-color: #814853;
   color: white;
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-family: 'Reenie Beanie', cursive;
   padding: 1em;
   font-size: 1em;
   border: none;
@@ -115,13 +135,14 @@ li {
 .button:hover {
   background-color: #779863;
   text-decoration: none;
+      font-family: 'Reenie Beanie', cursive;
 }
 
 .dropbtn {
   background-color: #814853;
   color: white;
   padding: 1em;
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-family: 'Reenie Beanie', cursive;
   font-size: 1em;
   border: none;
   cursor: pointer;
@@ -131,7 +152,7 @@ li {
 /* Dropdown button on hover & focus */
 .dropbtn:hover, .dropbtn:focus {
   background-color: #814853;
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-family: 'Reenie Beanie', cursive;
   text-decoration: none;
 }
 
@@ -139,7 +160,7 @@ li {
 .dropdown {
   position: relative;
   display: inline-block;
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+      font-family: 'Reenie Beanie', cursive;
   text-decoration: none;
 }
 
